@@ -7,7 +7,7 @@
  Google reCAPTCHA V3 requires Secret Key & Site Key which passes into the reCAPTCHA API. Click here to generate <a href="https://www.discussdesk.com/google-recaptcha-how-to-get-secret-key-the-site-key.htm">Google reCAPTCHA V3 Secret Key & Site Key</a>.
  
  # Demo of Google reCAPTCHA V3
- We have created a live demo to demonstrate the integration of Google reCAPTCHA V3 in PHP. Click here to see the <a href="demo.discussdesk.com/integrate_google_recaptcha_v3_in_php/">Demo of Google reCAPTCHA V3</a>
+ We have created a live demo to demonstrate the integration of Google reCAPTCHA V3 in PHP. Click here to see the <a href="https://demo.discussdesk.com/integrate_google_recaptcha_v3_in_php/">Demo of Google reCAPTCHA V3</a>
  
  
  
